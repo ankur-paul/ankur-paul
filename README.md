@@ -97,7 +97,7 @@
   <a href="https://www.instagram.com/ankurpaul_07/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="28" height="21" alt="instagram logo"  />
   </a>
-  <a href="ankurpaul27@proton.me" target="_blank">
+  <a href="mailto:ankurpaul27@proton.me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="28" height="21" alt="gmail logo"  />
   </a>
 </div>
