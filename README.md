@@ -32,7 +32,7 @@ ankur@dev: ~$ ls -la projects/
 ankur@dev: ~$ cat ~/.skills
 ```
 
-```
+```yaml
 Languages:    Python · C++ · JavaScript · TypeScript · SQL
 ML & DL:      PyTorch · TensorFlow · Keras · scikit-learn
 Web:          React · Node.js · Express · FastAPI · MongoDB
