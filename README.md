@@ -47,4 +47,4 @@ ankur@dev:~$ echo $CONTACT
 
 ---
 
-<sub>Open to research internships and collaborations.</sub>
+<sub>Open to internships and collaborations.</sub>
