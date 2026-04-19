@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # Hey, I'm Ankur 👋
 
@@ -109,4 +109,3 @@ I build practical products with clean code, machine learning, and modern web tec
 **ankurpaul27@proton.me**
 
 </div>
-]]>
