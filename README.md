@@ -1,5 +1,5 @@
-```bash
-ankur@dev:~$ whoami
+```yaml
+ankur@dev: ~$ whoami
 ```
 
 ### Ankur Paul
@@ -8,8 +8,8 @@ Third-year CS undergrad at **GNDEC, Ludhiana** (8.7 CGPA). I work at the interse
 
 Currently focused on **audio event detection**, **multimodal AI**, and **Vision-Language Models** for healthcare.
 
-```nushell
-ankur@dev:~$ cat experience/pai-2025.log
+```yaml
+ankur@dev: ~$ cat experience/pai-2025.log
 ```
 
 **Data Science Intern** · Punjab AI Excellence · Summer 2025
@@ -17,8 +17,8 @@ ankur@dev:~$ cat experience/pai-2025.log
 - Model optimization for edge deployment (MobileNetV2)
 - AI education outreach across 200+ schools in India
 
-```nushell
-ankur@dev:~$ ls -la projects/
+```yaml
+ankur@dev: ~$ ls -la projects/
 ```
 
 | Project | Stack | What it does |
@@ -28,8 +28,8 @@ ankur@dev:~$ ls -la projects/
 | **[Omnifood](https://omnifood-ankur.netlify.app)** | HTML · CSS · JS | Responsive landing page with modern CSS layout |
 | **[Forkify](https://forkify-ankur-p.netlify.app/)** | JavaScript · MVC | Recipe search engine with async API integration |
 
-```nushell
-ankur@dev:~$ cat ~/.skills
+```yaml
+ankur@dev: ~$ cat ~/.skills
 ```
 
 ```yaml
@@ -39,8 +39,8 @@ Web:          React · Node.js · Express · FastAPI · MongoDB
 Tools:        Git · Linux · Docker · Jupyter
 ```
 
-```nushell
-ankur@dev:~$ echo $CONTACT
+```yaml
+ankur@dev: ~$ echo $CONTACT
 ```
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-ankurpaul52-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ankurpaul52)  [![Email](https://img.shields.io/badge/email-ankurpaul27-6D4AFF?style=flat&logo=protonmail)](mailto:ankurpaul27@proton.me)
