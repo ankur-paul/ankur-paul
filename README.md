@@ -1,4 +1,4 @@
-```nushell
+```zsh
 ankur@dev:~$ whoami
 ```
 
