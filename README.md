@@ -1,4 +1,4 @@
-```console
+```nushell
 ankur@dev:~$ whoami
 ```
 
@@ -8,7 +8,7 @@ Third-year CS undergrad at **GNDEC, Ludhiana** (8.7 CGPA). I work at the interse
 
 Currently focused on **audio event detection**, **multimodal AI**, and **Vision-Language Models** for healthcare.
 
-```console
+```nushell
 ankur@dev:~$ cat experience/pai-2025.log
 ```
 
@@ -17,7 +17,7 @@ ankur@dev:~$ cat experience/pai-2025.log
 - Model optimization for edge deployment (MobileNetV2)
 - AI education outreach across 200+ schools in India
 
-```console
+```nushell
 ankur@dev:~$ ls -la projects/
 ```
 
@@ -28,7 +28,7 @@ ankur@dev:~$ ls -la projects/
 | **[Omnifood](https://omnifood-ankur.netlify.app)** | HTML · CSS · JS | Responsive landing page with modern CSS layout |
 | **[Forkify](https://forkify-ankur-p.netlify.app/)** | JavaScript · MVC | Recipe search engine with async API integration |
 
-```console
+```nushell
 ankur@dev:~$ cat ~/.skills
 ```
 
@@ -39,7 +39,7 @@ Web:          React · Node.js · Express · FastAPI · MongoDB
 Tools:        Git · Linux · Docker · Jupyter
 ```
 
-```console
+```nushell
 ankur@dev:~$ echo $CONTACT
 ```
 
