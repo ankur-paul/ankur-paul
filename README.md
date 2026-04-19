@@ -1,105 +1,112 @@
-<h1 align="left">Hi👋! I am Ankur</h1>
+<![CDATA[<div align="center">
 
-###
+# Hey, I'm Ankur 👋
 
-<h2 align="left">💻 Tech Stack:</h2>
+**CS Engineer · AI Builder · Full-Stack Developer**
 
-###
+B.Tech in Computer Science & Engineering @ [Guru Nanak Dev Engineering College](https://gndec.ac.in), Ludhiana *(2023 — 2027)*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35" alt="android logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
+I build practical products with clean code, machine learning, and modern web technologies.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankurpaul52)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ankur-paul.github.io)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ankurpaul27@proton.me)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ankurpaul52/)
+
 </div>
 
-###
+---
 
-<h2 align="left">😄 Intro</h2>
+## 🧠 About Me
 
-###
+- 🎓 Third-year CSE student with a **CGPA of 8.7/10**
+- 🔬 Research interests in **Deep Learning for Medical Image Analysis**, Computer Vision, and Multimodal AI Systems
+- 💼 Former **Data Science Intern** at Punjab AI Excellence — built CNN image classification pipelines with TensorFlow & Keras
+- 🎯 Currently exploring **audio event detection architectures** and **Vision-Language Models** for healthcare applications
+- 🧩 100+ problems solved on LeetCode
 
-<p align="left">I'm a third-year B.Tech student specializing in Computer Science and Engineering at Guru Nanak Dev Engineering College, Ludhiana (GNDEC Ludhiana), with a deep interest in AI and machine learning—especially how they can be used to solve real-world problems. I am also passionate about web development. Continuously exploring new stuff and expanding my understanding.</p>
+---
 
-###
+## ⚡ Tech Stack
 
-<h2 align="left">Activities</h2>
+| Domain | Technologies |
+|---|---|
+| **Languages** | Python · C++ · JavaScript · TypeScript · SQL |
+| **ML & Deep Learning** | PyTorch · TensorFlow · Keras · scikit-learn · NumPy · pandas |
+| **Web Development** | React.js · Node.js · Express.js · FastAPI · MongoDB · Tailwind CSS |
+| **Developer Tools** | Git · Linux · Docker · Jupyter · Google Colab |
 
-###
+---
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ankurpaul52/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ankurpaul52/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ankurpaul52/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ankurpaul52/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ankurpaul52/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ankurpaul52/2" alt="Medium post 3"  />
-  </a>
+## 🚀 Featured Projects
+
+### [Unified Audio Reasoning System](https://github.com/ankur-paul)
+> End-to-end multimodal reasoning pipeline combining acoustic event detection with speech transcription and LLM inference
+
+- Engineered CNN-based event detection on log-mel spectrograms with Whisper-based speech transcription
+- Designed a pre-LLM scene-construction layer that compresses dense event streams into structured timelines
+- Integrated Gemini VLM for contextual reasoning with clean, modular architecture
+
+`PyTorch` `CNN` `Whisper` `Gemini` `LangChain`
+
+---
+
+### [Plant Disease Detection](https://github.com/ankur-paul/plant-disease-detection)
+> Transfer-learning-based crop disease detection optimized for mobile deployment
+
+- Built a MobileNetV2-based classification pipeline with dataset curation and class balancing
+- Optimized for low-latency inference on resource-constrained edge devices
+- Techniques directly transferable to medical image classification domains
+
+`TensorFlow` `Keras` `MobileNetV2` `Transfer Learning`
+
+---
+
+### [Omnifood](https://github.com/ankur-paul/omnifood) · [Live ↗](https://omnifood-ankur.netlify.app)
+> Responsive single-page web experience with semantic HTML and modern CSS
+
+`HTML` `CSS` `JavaScript`
+
+### [Forkify](https://github.com/ankur-paul/forkify) · [Live ↗](https://forkify-ankur-p.netlify.app/)
+> Recipe search engine powered by external APIs and async request flows
+
+`JavaScript` `API Integration` `MVC Architecture`
+
+---
+
+## 💼 Experience
+
+**Data Science Intern** — *Punjab AI Excellence* (Jun – Aug 2025)
+- Built and fine-tuned CNN-based image classifiers covering the full ML pipeline from EDA through optimization
+- Evaluated models under mobile deployment constraints using MobileNetV2
+- Contributed to AI education materials reaching **200+ schools** across India
+
+---
+
+## 📜 Certifications
+
+- **Python Foundation Certification** — Infosys
+- **Joy of Computing Using Python** — NPTEL *(Elite + Gold)*
+- **Ethical Hacking Essentials** — NPTEL
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankur-paul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur-paul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" />
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankur-paul/ankur-paul/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankur-paul/ankur-paul/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ankur-paul/ankur-paul/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
 
-###
+*Open to research internships, collaborations, and interesting conversations.*
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur-paul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+**ankurpaul27@proton.me**
+
 </div>
-
-###
-
-<h3 align="left">🌐 Socials:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ankurpaul52/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="21" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ankurpaul_07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="28" height="21" alt="instagram logo"  />
-  </a>
-  <a href="mailto:ankurpaul27@proton.me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="28" height="21" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+]]>
