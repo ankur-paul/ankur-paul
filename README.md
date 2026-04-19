@@ -1,4 +1,4 @@
-```zsh
+```bash
 ankur@dev:~$ whoami
 ```
 
