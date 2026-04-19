@@ -1,4 +1,4 @@
-```
+```console
 ankur@dev:~$ whoami
 ```
 
@@ -8,8 +8,8 @@ Third-year CS undergrad at **GNDEC, Ludhiana** (8.7 CGPA). I work at the interse
 
 Currently focused on **audio event detection**, **multimodal AI**, and **Vision-Language Models** for healthcare.
 
-```
-ankur@dev:~$ ls experience/
+```console
+ankur@dev:~$ cat experience/pai-2025.log
 ```
 
 **Data Science Intern** · Punjab AI Excellence · Summer 2025
@@ -17,29 +17,29 @@ ankur@dev:~$ ls experience/
 - Model optimization for edge deployment (MobileNetV2)
 - AI education outreach across 200+ schools in India
 
-```
-ankur@dev:~$ ls projects/
+```console
+ankur@dev:~$ ls -la projects/
 ```
 
 | Project | Stack | What it does |
 |---|---|---|
-| **[Unified Audio Reasoning](https://github.com/ankur-paul)** | PyTorch · Whisper · Gemini | Multimodal pipeline: acoustic event detection → speech transcription → LLM reasoning |
+| **[Unified Audio Reasoning](https://github.com/ankur-paul)** | PyTorch · Whisper · Gemini | Multimodal pipeline: acoustic events → transcription → LLM reasoning |
 | **[Plant Disease Detection](https://github.com/ankur-paul/plant-disease-detection)** | TensorFlow · MobileNetV2 | Transfer learning classifier optimized for mobile inference |
 | **[Omnifood](https://omnifood-ankur.netlify.app)** | HTML · CSS · JS | Responsive landing page with modern CSS layout |
 | **[Forkify](https://forkify-ankur-p.netlify.app/)** | JavaScript · MVC | Recipe search engine with async API integration |
 
-```
-ankur@dev:~$ cat skills.txt
-```
-
-```
-Languages    Python · C++ · JavaScript · TypeScript · SQL
-ML/DL        PyTorch · TensorFlow · Keras · scikit-learn
-Web          React · Node.js · Express · FastAPI · MongoDB
-Tools        Git · Linux · Docker · Jupyter
+```console
+ankur@dev:~$ cat ~/.skills
 ```
 
+```yaml
+Languages:    Python · C++ · JavaScript · TypeScript · SQL
+ML & DL:      PyTorch · TensorFlow · Keras · scikit-learn
+Web:          React · Node.js · Express · FastAPI · MongoDB
+Tools:        Git · Linux · Docker · Jupyter
 ```
+
+```console
 ankur@dev:~$ echo $CONTACT
 ```
 
